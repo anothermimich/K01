@@ -20,6 +20,7 @@
 | Pro micro `atmega32u4`  | 2         | 
 | Cospad case             | 2         |
 | XD75 allu plate         | 1         |
+| DOYS keycaps            | 48        |
 | Diode 1N4148            | 48        |
 | Tecsee Purple Panda     | 48        |
 | 20mm two-stage springs  | 48        |

@@ -61,4 +61,4 @@ Flashing example for this keyboard:
   <img src="/other/img_4.jpg" width="48%" />
   <img src="/other/img_5.jpg" width="48%" /> 
 </p>
-> As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open. 
+>As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open. 

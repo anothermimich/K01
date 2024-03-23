@@ -1,15 +1,11 @@
 # lets_mimich
 
-<p float="left">
-  <img src="/other/img_0.jpg" width="100" />
-  <img src="/other/img_0.jpg" width="100" /> 
-  <img src="/other/img_0.jpg" width="100" />
+<p float="center">
+  <img src="/other/img_0.jpg" width="25%" />
+  <img src="/other/img_1.jpg" width="25%" /> 
+  <img src="/other/img_2.jpg" width="25%" />
+  <img src="/other/img_3.jpg" width="25%" />
 </p>
-
-
-![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_0.jpg) | ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_1.jpg)
-
-![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_2.jpg) | ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_3.jpg)
 
 *This is my first attempt at handwiring and custom firmware. I take inspiration on the Let's split keyboard.*
 

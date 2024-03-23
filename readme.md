@@ -7,7 +7,8 @@
   <img src="/other/img_3.jpg" width="48%" />
 </p>
 
-> This is my first attempt at handwiring and custom firmware. I take inspiration from the Let's split keyboard.
+> This is my first attempt at handwiring and writing custom firmware.
+> I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
 > Keyboard Maintainer: [Lu](https://github.com/anothermimich)
 
 ## Hardware used

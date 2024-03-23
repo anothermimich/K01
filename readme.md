@@ -1,5 +1,12 @@
 # lets_mimich
 
+<p float="left">
+  <img src="/other/img_0.jpg" width="100" />
+  <img src="/other/img_0.jpg" width="100" /> 
+  <img src="/other/img_0.jpg" width="100" />
+</p>
+
+
 ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_0.jpg) | ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_1.jpg)
 
 ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_2.jpg) | ![](https://github.com/anothermimich/lets_mimich/blob/main/other/img_3.jpg)

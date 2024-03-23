@@ -52,5 +52,13 @@ Flashing example for this keyboard:
 
 ## Bootloader
 
-* **Bootmagic**: Hold (0,0) when plugin the keyboard
-* **Keycode in layout**: Hold lower and raise layer and press the key (0,1) that is mapped as `QK_BOOT`
+* **Bootmagic**: Hold `(0,0)` when plugin the keyboard
+* **Keycode in layout**: Hold lower and raise layer and press the key `(0,1)` that is mapped as `QK_BOOT`
+
+## Making process
+
+<p float="center">
+  <img src="/other/img_4.jpg" width="48%" />
+  <img src="/other/img_5.jpg" width="48%" /> 
+</p>
+> As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open. 

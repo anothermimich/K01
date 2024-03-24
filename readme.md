@@ -1,12 +1,12 @@
 # lets_mimich
 
 <p float="center">
-  <img src="/other/img_4.jpg" width="48%" />
-  <img src="/other/img_0.jpg" width="48%" /> 
-  <img src="/other/img_1.jpg" width="48%" />
-  <img src="/other/img_5.jpg" width="48%" /> 
-  <img src="/other/img_2.jpg" width="48%" />
-  <img src="/other/img_3.jpg" width="48%" />
+  <img src="/other/img/img_4.jpg" width="48%" />
+  <img src="/other/img/img_0.jpg" width="48%" /> 
+  <img src="/other/img/img_1.jpg" width="48%" />
+  <img src="/other/img/img_5.jpg" width="48%" /> 
+  <img src="/other/img/img_2.jpg" width="48%" />
+  <img src="/other/img/img_3.jpg" width="48%" />
 </p>
 
 >This is my first attempt at handwiring and writing custom firmware.
@@ -42,6 +42,8 @@ Flashing example for this keyboard:
 
     make handwired/lets_mimich:vial:flash
 
+In the `other` folder, i left a vial keymap that is quite adequate do use.
+
 ## Default
 
 Make example for this keyboard (after setting up your build environment):
@@ -60,8 +62,8 @@ Flashing example for this keyboard:
 ## Making process
 
 <p float="center">
-  <img src="/other/img_6.jpg" width="48%" />
-  <img src="/other/img_7.jpg" width="48%" /> 
+  <img src="/other/img/img_6.jpg" width="48%" />
+  <img src="/other/img/img_7.jpg" width="48%" /> 
 </p>
 
 >As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open.

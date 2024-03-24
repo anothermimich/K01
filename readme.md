@@ -42,7 +42,7 @@ Flashing example for this keyboard:
 
     make handwired/lets_mimich:vial:flash
 
-In the `other` folder, i left a vial keymap that is quite adequate do use.
+In the **other** folder, i left a vial keymap that is quite adequate do use.
 
 ## Default
 

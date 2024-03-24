@@ -2,9 +2,9 @@
 
 <p float="center">
   <img src="/other/img_4.jpg" width="48%" />
+  <img src="/other/img_0.jpg" width="48%" /> 
+  <img src="/other/img_1.jpg" width="48%" />
   <img src="/other/img_5.jpg" width="48%" /> 
-  <img src="/other/img_0.jpg" width="48%" />
-  <img src="/other/img_1.jpg" width="48%" /> 
   <img src="/other/img_2.jpg" width="48%" />
   <img src="/other/img_3.jpg" width="48%" />
 </p>

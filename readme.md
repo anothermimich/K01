@@ -70,6 +70,8 @@ Flashing example for this keyboard:
 
 >I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.
 
+### Plate
+
 >For the plate I choose the XD75. Out of the box it has this size:
 
     ,-----------------------------------------------------------------------------------------.
@@ -84,7 +86,7 @@ Flashing example for this keyboard:
     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
     `-----------------------------------------------------------------------------------------'
     
->In order o use it i have done some cuts that i will try to ilustrate below. The cells market with an X represent what was cut.
+>In order to use it i have done some cuts that i will try to ilustrate below. The cells market with an X represent what was cut.
 
     ,-----------------------------------------------------------------------------------------.
     |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |

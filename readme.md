@@ -11,9 +11,9 @@
 
 >This is my first attempt at handwiring and writing custom firmware.
 >
->I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
->
 >I have posted these photos on [reddit](https://www.reddit.com/r/olkb/comments/1bnd6md/my_first_handwired_ortho_split/), if you want to chat about this keep leave a comment there.
+>
+>I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
 >
 >Keyboard Maintainer: [Lu](https://github.com/anothermimich)
 

@@ -31,8 +31,9 @@
 | 4.7kΩ pull-up resistors | 2         |
 | USB-C female connectors | 2         |
 
+## Flashing
 
-## Vial  
+### Vial  
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -44,7 +45,7 @@ Flashing example for this keyboard:
 
 In the **other** folder, i left a vial keymap that is quite adequate do use.
 
-## Default
+### Default
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -61,14 +62,14 @@ Flashing example for this keyboard:
 
 ## Making process
 
+### Case
+
 <p float="center">
   <img src="/other/img/img_6.jpg" width="48%" />
   <img src="/other/img/img_7.jpg" width="48%" /> 
 </p>
 
 >As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open.
-
->I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.
 
 ### Plate
 
@@ -111,3 +112,7 @@ Flashing example for this keyboard:
     |-----+-----+-----+-----+-----+-----|                 |-----+-----+-----+-----+-----+-----|
     |     |     |     |     |     |     |                 |     |     |     |     |     |     |
     `-----------------------------------'                 `-----------------------------------'
+
+### Connecting the halves
+
+>I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.

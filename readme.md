@@ -24,6 +24,7 @@
 | XD75 allu plate         | 1         |
 | DOYS keycaps            | 48        |
 | Diode 1N4148            | 48        |
+| Kailh hot swap sockets  | 48        |
 | Tecsee Purple Panda     | 48        |
 | 20mm two-stage springs  | 48        |
 | Krytox 205g0            | ?         |

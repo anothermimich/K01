@@ -36,7 +36,7 @@
 | M2 Brass standoff       | 8         |
 | M2 screws               | 8         |
 
-><sup>1</sup> I really liked the way that the switches turned out after spring swap and lub. But i do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
+><sup>1</sup> I really like the way that the switches turned out after spring swap and lub. But I still do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
 
 ## Flashing
 

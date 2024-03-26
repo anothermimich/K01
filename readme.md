@@ -33,6 +33,10 @@
 | 24 awg cable            | ?         |
 | 4.7kΩ pull-up resistors | 2         |
 | USB-C female connectors | 2         |
+| M2 Brass standoff       | 8         |
+| M2 screws               | 8         |
+
+>I really liked the way that the switches turned out after spring swap and lub. But i do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
 
 ## Flashing
 
@@ -76,7 +80,7 @@ Flashing example for this keyboard:
 
 ### Plate
 
->For the plate I choose the XD75. Out of the box it has this size:
+>For the plate I choose the ID75. Out of the box it has this size:
 
     ,-----------------------------------------------------------------------------------------.
     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |

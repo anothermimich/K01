@@ -9,13 +9,13 @@
   <img src="/other/img/img_3.jpg" width="48%" />
 </p>
 
->This is my first attempt at handwiring and writing custom firmware.
->
->I have posted these photos on [reddit](https://www.reddit.com/r/olkb/comments/1bnd6md/my_first_handwired_ortho_split/), if you want to chat about this keeb leave a comment there.
->
->I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
->
->Keyboard Maintainer: [Lu](https://github.com/anothermimich)
+This is my first attempt at handwiring and writing custom firmware.
+
+I have posted these photos on [reddit](https://www.reddit.com/r/olkb/comments/1bnd6md/my_first_handwired_ortho_split/), if you want to chat about this keeb leave a comment there.
+
+I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
+
+Keyboard Maintainer: [Lu](https://github.com/anothermimich)
 
 ## Hardware used
 
@@ -76,11 +76,11 @@ Flashing example for this keyboard:
   <img src="/other/img/img_7.jpg" width="48%" /> 
 </p>
 
->As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open.
+As the cospad case only have one open for a cable, i take it to a someone with an appropriate machine to do one more open.
 
 ### Plate
 
->For the plate I choose the ID75. Out of the box it has this size:
+For the plate I choose the ID75. Out of the box it has this size:
 
     ,-----------------------------------------------------------------------------------------.
     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -94,7 +94,7 @@ Flashing example for this keyboard:
     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
     `-----------------------------------------------------------------------------------------'
     
->In order to use it i have done some cuts that i will try to ilustrate below. The cells market with an X represent what was cut.
+In order to use it i have done some cuts that i will try to ilustrate below. The cells market with an X represent what was cut.
 
     ,-----------------------------------------------------------------------------------------.
     |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |
@@ -108,7 +108,7 @@ Flashing example for this keyboard:
     |     |     |     |     |     |     |  x  |  x  |  x  |     |     |     |     |     |     |
     `-----------------------------------------------------------------------------------------'
 
->Which left me with 2 plates, of this size:
+Which left me with 2 plates, of this size:
 
     ,-----------------------------------.                 ,-----------------------------------.
     |     |     |     |     |     |     |                 |     |     |     |     |     |     |
@@ -122,4 +122,4 @@ Flashing example for this keyboard:
 
 ### Connecting the halves
 
->I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.
+I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.

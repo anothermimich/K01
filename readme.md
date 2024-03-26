@@ -22,9 +22,9 @@
 | What                    | Quantity  |  
 | ----------------------- | --------- |
 | Pro micro `atmega32u4`  | 2         | 
-| Cospad case             | 2         |
-| XD75 allu plate         | 1         |
-| DOYS keycaps            | 48        |
+| Case [XD24 / Cospad](https://kprepublic.com/collections/cospad-xd24/products/anodized-aluminium-case-for-cospad-xd24-custom-keyboard-dual-purpose-case-with-cnc-aluminum-cone-feet)             | 2         |
+| Plate [ID75 aluminum](https://ymdkey.com/products/id75-idobe-75-hotswap-pcb-aluminum-plate?variant=32012207980605)         | 1         |
+| Keycaps [DOYS](https://deadline.space/products/doys-keycaps)            | 48        |
 | Diode 1N4148            | 48        |
 | Kailh hot swap sockets  | 48        |
 | Tecsee Purple Panda     | 48        |

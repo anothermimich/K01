@@ -38,35 +38,6 @@ Keyboard Maintainer: [Lu](https://github.com/anothermimich)
 
 ><sup>1</sup> I really like the way that the switches turned out after spring swap and lub. But I still do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
 
-## Flashing
-
-### Vial  
-
-Make example for this keyboard (after setting up your build environment):
-
-    make handwired/lets_mimich:vial
-
-Flashing example for this keyboard:
-
-    make handwired/lets_mimich:vial:flash
-
-In the **other** folder, i left a vial keymap that is quite adequate do use.
-
-### Default
-
-Make example for this keyboard (after setting up your build environment):
-
-    make handwired/lets_mimich:default
-
-Flashing example for this keyboard:
-
-    make handwired/lets_mimich:default:flash
-
-## Bootloader
-
-* **Bootmagic**: Hold `(0,0)` when plugin the keyboard
-* **Keycode in layout**: Hold lower and raise layer and press the key `(0,1)` that is mapped as `QK_BOOT`
-
 ## Making process
 
 ### Case
@@ -123,3 +94,34 @@ Which left me with 2 plates, of this size:
 ### Connecting the halves
 
 I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.
+
+## Flashing
+
+As this board is not merged in the official [qmk](https://qmk.fm/) or [vial](https://get.vial.today/) repository you will need to change the folder path or add this rep into that specific path to compile and flash it.
+
+### Vial  
+
+Make example for this keyboard (after setting up your build environment):
+
+    make handwired/lets_mimich:vial
+
+Flashing example for this keyboard:
+
+    make handwired/lets_mimich:vial:flash
+
+In the **other** folder, i left a vial keymap that is quite adequate do use.
+
+### Default
+
+Make example for this keyboard (after setting up your build environment):
+
+    make handwired/lets_mimich:default
+
+Flashing example for this keyboard:
+
+    make handwired/lets_mimich:default:flash
+
+## Bootloader
+
+* **Bootmagic**: Hold `(0,0)` when plugin the keyboard
+* **Keycode in layout**: Hold lower and raise layer and press the key `(0,1)` that is mapped as `QK_BOOT`

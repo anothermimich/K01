@@ -97,7 +97,7 @@ I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Bet
 
 ## Flashing
 
-As this board is not merged in the official [qmk](https://qmk.fm/) or [vial](https://get.vial.today/) repository you will need to change the folder path or add this rep into that specific path to compile and flash it.
+As this board is not merged in the official [qmk](https://qmk.fm/) or [vial](https://get.vial.today/) repository you will need to change the folder path or download and move this files into that specific path to compile and flash it.
 
 ### Vial  
 

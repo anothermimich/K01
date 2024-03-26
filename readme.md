@@ -27,7 +27,7 @@
 | Keycaps [DOYS](https://deadline.space/products/doys-keycaps)            | 48        |
 | Diode 1N4148            | 48        |
 | Kailh hot swap sockets  | 48        |
-| Tecsee Purple Panda     | 48        |
+| Tecsee Purple Panda<sup>1</sup>     | 48        |
 | 20mm two-stage springs  | 48        |
 | Krytox 205g0            | ?         |
 | 24 awg cable            | ?         |
@@ -36,7 +36,7 @@
 | M2 Brass standoff       | 8         |
 | M2 screws               | 8         |
 
->I really liked the way that the switches turned out after spring swap and lub. But i do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
+><sup>1</sup> I really liked the way that the switches turned out after spring swap and lub. But i do not recommend them due to poor quality control, allot of the switches don't work or make a weird sound when pressed.
 
 ## Flashing
 

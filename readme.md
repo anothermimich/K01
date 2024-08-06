@@ -93,7 +93,7 @@ Which left me with 2 plates, of this size:
 
 ### Connecting the halves
 
-I used I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.                                                                               
+I used USB-C and I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors.                                                                               
                                                                                                                                                                                    
      ┌────────────┬──────┐                                     ┌──────┬─────────────┐
      │            │      │           GREEN                     │      │             │

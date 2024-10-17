@@ -127,7 +127,7 @@ I used USB-C and I2C to connect the halves, using `GND, VCC, 2, 3` on both pro m
      │                                               └────────┬──────┘     │                                              
      └────────────────────────────────────────────────────────┴────────────┘                                              
   
- Below is a reminder of the colors used, it will help in future maintenance.
+ Below is a reminder of the colors used on the USB-C connectors. It will help in future maintenance, i hope.
                                                                                                                                                                                    
      ┌────────────┬──────┐                                     ┌──────┬─────────────┐
      │            │      │           GREEN                     │      │             │

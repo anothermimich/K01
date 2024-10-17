@@ -180,4 +180,8 @@ Flashing example for this keyboard:
 ## Bootloader
 
 * **Bootmagic**: Hold `(0,0)` when plugin the keyboard
-* **Keycode in layout**: Hold lower and raise layer and press the key `(0,1)` that is mapped as `QK_BOOT`
+
+## Keymap
+
+  <img src="/other/img/keymap.svg" width="60%" />
+

@@ -93,7 +93,7 @@ Which left me with 2 plates, of this size:
 
 ### Switches in relation to rows and columns
 
-I don't remember the diode direction that i used nor if it is in the rows or columns. Either way, a quick search is enough for you to adapt the code to your wiring.
+The direction of the diodes is `COL2ROW`, this means that the dark side of the diodes are facing the row cable.
 
                                │ COLUMN                 │ COLUMN                 │ COLUMN
                                │                        │                        │       

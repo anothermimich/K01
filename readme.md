@@ -218,5 +218,5 @@ Flashing example for this keyboard:
 
 ## Keymap
 
-  <img src="/other/img/keymap.svg" width="60%" />
+  <img src="/other/img/keymap.svg" width="100%" />
 

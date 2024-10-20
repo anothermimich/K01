@@ -151,6 +151,10 @@ The direction of the diodes is `COL2ROW`, this means that the dark side of the d
                    │ [──────┼──┘            │ [──────┼──┘            │ [──────┼──┘            │ [──────┼──┘            │ [──────┼──┘            │ [──────┼──┘       
                    └────────┘               └────────┘               └────────┘               └────────┘               └────────┘               └────────┘               
 
+### Connecting the rows and columns
+
+I used the following pins to connect the columns `10, 16, 14, 15, A0, A1`, which translate to `B6, B2, B3, B1, F7, F6` in the firmware. For the rows i used `4, 5, 6, 7`, which translate to `D4, C6, D7, E6` in the firmware.
+
 ### Connecting the halves
 
 I used USB-C and I2C to connect the halves, using `GND, VCC, 2, 3` on both pro micros. Between `VCC` and `2` and `VCC` and `3` i used 4.7kΩ pull-up resistors. 
@@ -172,9 +176,9 @@ I used USB-C and I2C to connect the halves, using `GND, VCC, 2, 3` on both pro m
      ┌──────────]D0/3L              A2/F5[ ] |   │   │               ┌───────────────]D+ │ │ USB-C │ │ D+[─────────┘ ┌────────────]D0/3               A2/F5[ ] |       │
      │      | [ ]D4/4               A1/F6[ ] |   │   │               │       ┌───────]D- │ │ CABLE │ │ D-[───────────┘        | [ ]D4/4               A1/F6[ ] |       │
      │      | [ ]C6/5               A0/F7[ ] |   │   │               │   ┌───┼───────]V  └─┘       └─┘ V [───────┐            | [ ]C6/5               A0/F7[ ] |       │
-     │      | [ ]D7/6             SC15/B1[ ] |   │   │               │   │   │   |        |         |        |   │            | [ ]D7/6               15/B1[ ] |       │
-     │      | [ ]E6/7             MI14/B3[ ] |   │   │               │   │   │   +--------+         +--------+   │            | [ ]E6/7               14/B3[ ] |       │
-     │      | [ ]B4/8             MO16/B2[ ] |   │   └────────┬──────┘   │   │                                   │            | [ ]B4/8               16/B2[ ] |       │
+     │      | [ ]D7/6               15/B1[ ] |   │   │               │   │   │   |        |         |        |   │            | [ ]D7/6               15/B1[ ] |       │
+     │      | [ ]E6/7               14/B3[ ] |   │   │               │   │   │   +--------+         +--------+   │            | [ ]E6/7               14/B3[ ] |       │
+     │      | [ ]B4/8               16/B2[ ] |   │   └────────┬──────┘   │   │                                   │            | [ ]B4/8               16/B2[ ] |       │
      │      | [ ]B5/9           A10/10/B6[ ] |   │            │          │   │                                   │            | [ ]B5/9           A10/10/B6[ ] |       │
      │      |           PRO-MICRO            |   │   ┌────────┴───────┐  │   │                                   │            |           PRO-MICRO            |       │
      │      +--------------------------------+   │   │ 4.7kΩ RESISTOR │  │   │                                   │            +--------------------------------+       │

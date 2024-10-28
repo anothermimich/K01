@@ -166,7 +166,7 @@ path.combo { stroke: #7f7f7f; }
      y="28"
      class="label"
      id="L0"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';fill:#ffffff;stroke:none;font-size:21.33333333px">L0:</text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;stroke:none;font-size:21.33333333px">L0:</text>
   <rect
      rx="6"
      ry="6"
@@ -958,7 +958,7 @@ path.combo { stroke: #7f7f7f; }
      y="308"
      class="label"
      id="L1"
-     style="fill:#ffffff;stroke:none;font-size:21.33333333px;-inkscape-font-specification:'Monospace Bold';font-family:Monospace;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">L1:</text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;stroke:none;font-size:21.33333333px">L1:</text>
   <rect
      rx="6"
      ry="6"
@@ -1625,7 +1625,7 @@ path.combo { stroke: #7f7f7f; }
      y="588"
      class="label"
      id="L2"
-     style="fill:#ffffff;stroke:none;font-size:21.33333333px;-inkscape-font-specification:'Monospace Bold';font-family:Monospace;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">L2:</text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;stroke:none;font-size:21.33333333px">L2:</text>
   <rect
      rx="6"
      ry="6"
@@ -2322,7 +2322,7 @@ path.combo { stroke: #7f7f7f; }
      y="868"
      class="label"
      id="L3"
-     style="fill:#ffffff;stroke:none;font-size:21.33333333px;-inkscape-font-specification:'Monospace Bold';font-family:Monospace;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">L3:</text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;stroke:none;font-size:21.33333333px">L3:</text>
   <rect
      rx="6"
      ry="6"

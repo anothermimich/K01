@@ -1,4 +1,4 @@
-# lets_mimich
+# K01
 
 <p float="center">
   <img src="/other/img/img_4.jpg" width="48%" />
@@ -9,13 +9,11 @@
   <img src="/other/img/img_3.jpg" width="48%" />
 </p>
 
-This is my first attempt at handwiring and writing custom firmware.
+This is my first keyboard design and my first attempt at handwiring and writinhg custom firmware.
 
 I have posted these photos on [reddit](https://www.reddit.com/r/olkb/comments/1bnd6md/my_first_handwired_ortho_split/), if you want to chat about this keeb leave a comment there.
 
 I take inspiration from the [Let's split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split).
-
-Keyboard Maintainer: [Lu](https://github.com/anothermimich)
 
 ## Hardware used
 
